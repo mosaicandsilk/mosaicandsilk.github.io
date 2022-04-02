@@ -17,32 +17,13 @@ body {
   max-width: 75vw;
 }
 
-.midground, .foreground {
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: inline-block;
-  margin: 15vh 0 0 15vw;
-  padding: 0;
-  width: 35vw;
-  height: 59vh;
-}
-
 body {
   background-color: hsl(50, 100%, 80%);
 }
 
-.midground {
-  background-color: hsla(225, 100%, 25%, 0.4);
-}
-
-.foreground {
-  background-color: hsla(325, 50%, 50%, 0.6);
-}
-
 
 h1 {
-  color: SeaGreen;
+  color: hsl(0, 0%, 0%);
 }
 
 
